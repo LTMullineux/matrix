@@ -1,2 +1,2 @@
 # matrix
-Matrix effects using p5.js
+Matrix effects of the Trump/Russia alleged conspriciy using p5.js
